@@ -1,2 +1,2 @@
-# Techno-legend
-How to make a repository 
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
